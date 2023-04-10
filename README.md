@@ -46,6 +46,22 @@ Debug.Log("Welcome to level one"); //Debug logs to console if function completes
 }
 The scene name is a public string that can be changed in the empty object and could also be changed to go to the WeatherApp if wanted.
 
+
+![image](https://user-images.githubusercontent.com/130214018/230980599-011dad0d-c1c8-4ab6-876d-1d99761e2cc3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 In level one a script is needed for the functionality of the cube object. The basic 3D cube object is added with dimensions (2,2,2) and placed at the origin (0,0,0)
 
 The main camera projection must be changed from Perspective to Orthographic in the Inspector window.
@@ -112,6 +128,20 @@ public class MoveCube : MonoBehaviour
 }
 ****************************************************************************************************************************************************************
  At this point the cube should move left, right, up and down along the X and Y axis when pressing the respective WASD keys. The cube must be given a rigidbody component. Deselct gravity and constrain rotation in all 3 degrees of freedom.
+ 
+ ![image](https://user-images.githubusercontent.com/130214018/230980710-8d9a1b32-98de-44f1-a0c5-63e9d2285800.png)
+
+
+
+![image](https://user-images.githubusercontent.com/130214018/230980782-48ea6eef-a73f-48b9-91d7-d5c9ca684ff0.png)
+
+
+![image](https://user-images.githubusercontent.com/130214018/230980839-e2056f32-cd10-4268-812f-86736622272c.png)
+
+
+![image](https://user-images.githubusercontent.com/130214018/230980889-846ad821-598f-4265-98ce-90c4c2265fbd.png)
+
+ 
  
  Instructions for Task 2:
  Task 2:
@@ -340,10 +370,17 @@ const string APIKey = "f69462e1d504ac720627a6dae35644af";//API Key from OpenWeat
 }
 *********************************************************************************************************************************************************************
  
+ WeatherApp screen as seen in Game - Error in retrieving Mbombela Temperature.
+ 
  
  ![image](https://user-images.githubusercontent.com/130214018/230979823-40e474ba-9e05-4659-b5c5-e12ce033342b.png)
 
- 
+
+Weather App as seen in Scene:
+
+
+ ![image](https://user-images.githubusercontent.com/130214018/230980319-f6760d03-3778-4b2a-b2aa-74402c7fbe90.png)
+
  
  
  
