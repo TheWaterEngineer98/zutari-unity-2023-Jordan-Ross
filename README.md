@@ -383,7 +383,10 @@ Weather App as seen in Scene:
  ![image](https://user-images.githubusercontent.com/130214018/230980319-f6760d03-3778-4b2a-b2aa-74402c7fbe90.png)
 
  
+ Weather App before scene starts:
  
+ ![image](https://user-images.githubusercontent.com/130214018/230983975-9a2759b2-dfb3-4f11-b550-28ca892ef79b.png)
+
  
  
  
