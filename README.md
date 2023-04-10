@@ -7,7 +7,8 @@ The third scene WeatherApp should be accessed by playing the scene in Unity.
 C# Scripts that will be reffered to in readme and comments can be viewed in script.
 Special focus should be given to scripts: GetBhishoHumidity, MoveCube and Scene Changer
 
-Unity Editor Version: 2021.3.19f1 
+Unity Editor Version: 2021.3.19f1 3D Core
+By: Jordan Ian Ross
 ******************************************************************************************************************************************
 Instructions from Assessment:
 Task 1:
